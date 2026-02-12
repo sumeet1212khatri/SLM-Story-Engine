@@ -97,19 +97,11 @@ python3 -m http.server 3000
 # Navigate to http://localhost:3000
 ```
 
-### Docker
 
-```bash
-docker build -t slm-engine .
-docker run -p 8000:8000 slm-engine
-```
 
 ## 🧪 API Usage
 
-### Health Check
-```bash
-curl http://localhost:8000/health
-```
+
 
 Response:
 ```json
