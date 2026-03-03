@@ -1,5 +1,5 @@
 # ⚡ SLM Inference Engine
-# this Inference engine is Live Deployed on HuggingFace
+# This Inference engine is Live Deployed on HuggingFace
 ```
 https://not-omega-inference.hf.space/
 
