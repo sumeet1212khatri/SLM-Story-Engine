@@ -1,5 +1,9 @@
 # ⚡ SLM Inference Engine
+# this Inference engine is Live Deployed on HuggingFace
+```
+https://not-omega-inference.hf.space/
 
+```
 A blazing-fast **50M parameter Small Language Model** inference engine built from scratch in C++, served via a Python FastAPI backend.
 
 > **Benchmark:** ~28 tok/s | ~35ms/token on Intel i3 11th Gen (8GB RAM, Windows 11)
