@@ -1,0 +1,45 @@
+# ==============================================
+# SLM Inference Engine — .gitignore
+# ==============================================
+
+# ---- Model & Binary Files (too large for git) ----
+model.bin
+tokenizer.bin
+*.bin
+
+# ---- Compiled Executables ----
+inference.exe
+inference
+*.exe
+*.out
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+venv/
+env/
+.env
+.venv/
+pip-log.txt
+
+# ---- VS Code ----
+.vscode/
+*.code-workspace
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- Build artifacts ----
+build/
+dist/
+*.o
+*.obj
