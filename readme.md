@@ -1,4 +1,10 @@
 # ⚡ SLM Inference Engine
+
+![Language](https://img.shields.io/badge/language-C++%20%7C%20Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Focus](https://img.shields.io/badge/focus-Systems%20Engineering-red?style=for-the-badge)
+
+
 # This Inference engine is Live Deployed on HuggingFace
 ```
 https://not-omega-inference.hf.space/
