@@ -14,6 +14,17 @@ A blazing-fast **50M parameter Small Language Model** inference engine built fro
 
 > **Benchmark:** ~28 tok/s | ~35ms/token on Intel i3 11th Gen (8GB RAM, Windows 11)
 
+## 🧠 How to get the Model Weights (`model.bin`)
+
+To train the model and generate your own `model.bin` and `tokenizer.bin` files, simply open the Google Colab notebook below. It is fully optimized to train on Colab's Free Tier GPU (T4).
+
+1. Open the notebook link below.
+2. Change the runtime to **GPU** (`Runtime` > `Change runtime type` > `T4 GPU`).
+3. Run all cells to train and export the binary weights.
+
+
+[https://colab.research.google.com/drive/1UEjL2YZmyxs5ZkdxN_aPT8ceApb3a-Xx?usp=sharing](https://colab.research.google.com/drive/1UEjL2YZmyxs5ZkdxN_aPT8ceApb3a-Xx?usp=sharing)
+
 ---
 
 ## 🏗️ Architecture
