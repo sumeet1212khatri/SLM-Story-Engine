@@ -7,7 +7,7 @@
 
 # Live Demo
 
-[![Deployed on HuggingFace](https://img.shields.io/badge/Deployed%20On-HuggingFace-FCD21D?style=for-the-badge&logo=huggingface&logoColor=black)](https://not-omega-inference.hf.space/)
+[![Deployed on HuggingFace](https://img.shields.io/badge/Deployed%20On-HuggingFace-b7fc1d?style=for-the-badge&logo=huggingface&logoColor=black)](https://not-omega-inference.hf.space/)
 
 
 A blazing-fast **50M parameter Small Language Model** inference engine built from scratch in C++, served via a Python FastAPI backend.
