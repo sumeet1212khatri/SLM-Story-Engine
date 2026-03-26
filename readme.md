@@ -27,7 +27,7 @@ To train the model and generate your own `model.bin` and `tokenizer.bin` files, 
 
 ---
 
-<img width="1296" height="824" alt="image" src="https://github.com/user-attachments/assets/44d912d3-258f-47c2-b91f-1f4a8a967cda" />
+<img width="1523" height="836" alt="image" src="https://github.com/user-attachments/assets/450013b5-7f1c-4b50-9fc4-a0d162896b76" />
 
 
 ## 🏗️ Architecture
